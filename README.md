@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-dummy deployment
+dummy deployment and other dummies
