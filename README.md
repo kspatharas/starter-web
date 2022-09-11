@@ -2,9 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 
-
+This test git repository
 
 ## Purpose
 
